@@ -20,9 +20,9 @@ You have been provided with a file called "traffic.pcap" containing captured web
     - Wireshark will now display only the network packets that involve DNS activity.
     - Each line in the packet list corresponds to a DNS query or response.
     - Analyze the relevant fields in the packet details pane to gather information about the DNS queries, such as the queried domain name and query type.
-   - While analyzing the capture file, you may notice numerous DNS queries within the network traffic.
+   - While analyzing the capture file, you may notice numerous DNS queries within the network traffic, many of which to "cloudfront.net".
    - Each DNS query follows the format "d3h22uih2f4z9.cloudfront.net," where the first 6 digits represent a transformed flag.
-
+      <img width="1821" alt="dns-pcap" src="https://github.com/raedfayad/CyberSci-Nstionals-2023-Challenge-Walkthroughs/assets/37676177/c305b48b-92d0-4dce-868c-fcba7b945ad1">
 4. **Understanding the Caesar Cipher Transformation**
    - A file containing the flag was transformed into a list of Fully Qualified Domain Names (FQDNs) using a Caesar Cipher.
    - In this transformation, each letter is replaced by a corresponding unique 6-letter code. For example, 'k' might be transformed into 'dsi522'.
