@@ -4,7 +4,8 @@
 Our investigators came across this image called "robot-underdog" that was left behind on one of the machines that the AI took over during its early days. We think it might include the secret formula behind the AI model's success, can you verify? What is the name of the novel approach that the AI has based its model on?
 
 You are provided with a file called "robot-underdog.png" for this challenge.
-<img width="1077" alt="robot-underdog" src="https://github.com/raedfayad/CyberSci-Nstionals-2023-Challenge-Walkthroughs/assets/37676177/20e77e3a-6109-46c2-9872-b40a7d2cdf29">
+
+<img width="500" alt="robot-underdog" src="https://github.com/raedfayad/CyberSci-Nstionals-2023-Challenge-Walkthroughs/assets/37676177/20e77e3a-6109-46c2-9872-b40a7d2cdf29">
 
 ## Solution Walkthrough
 
@@ -112,7 +113,8 @@ You are provided with a file called "robot-underdog.png" for this challenge.
 
 8. **Examining the Modified Image**
    - In the modified image, the height has been increased, and you should now see additional text at the bottom of the image.
-<img width="1077" alt="non-crop-image" src="https://github.com/raedfayad/CyberSci-Nstionals-2023-Challenge-Walkthroughs/assets/37676177/38684c8d-fefb-4dbf-a5d5-105682b92590">
+
+      <img width="500" alt="non-crop-image" src="https://github.com/raedfayad/CyberSci-Nstionals-2023-Challenge-Walkthroughs/assets/37676177/38684c8d-fefb-4dbf-a5d5-105682b92590">
 
 9. **Searching for the Answer**
    - Look for the answer to the question: "What is the name of the novel approach that the AI has based its model on?"
